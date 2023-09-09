@@ -1,0 +1,118 @@
+header {
+    background-image: linear-gradient(to right top, #0e0f10, #151617, #1a1d1c, #202321, #282926);
+    font-family: inherit;
+    font-size: 20px;
+    text-align: center;
+    color: white;    
+    font-weight: inherit;
+    padding: 10px;
+}
+
+
+ h2 {
+     font-family: inherit;
+     font-size: 30px;
+     text-align: center;
+     color: black;
+ }
+
+ #name {
+     font-family: inherit;
+     font-size: 25px;
+     text-align: center;
+     color: black;
+     margin: 40px;
+ }
+
+#Proyecto {
+    text-align: center;
+    background-color: rgba(7, 63, 7, 0.534);
+    padding: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+
+#significado {
+    font-family: inherit;
+    font-size: 25px;
+    text-align: center;
+    color: black;
+    margin: 40px;
+}
+
+h3 {
+font-family: inherit;
+font-size: 25px;
+text-align: justify;
+color: black;
+margin: 30px;
+}
+
+ h4 {
+     font-family: inherit;
+     font-size: 25px;
+     text-align: justify;
+     color:  black;
+     margin: 30px;
+ }
+
+ #mazos {
+     font-family: inherit;
+     font-size: 25px;
+     text-align: justify;
+     color: black;
+     margin: 30px;
+ }
+ ul {
+     font-family: inherit;
+     font-size: 25px;
+     text-align: justify;
+     color: black;
+     margin: 30px;
+ }
+
+ * {
+     background-color: rgb(245, 242, 239);
+ }
+
+ #video{
+     text-align: center;
+ }
+
+ h5 {
+     font-family: inherit;
+     font-size: 25px;
+     text-align: justify;
+     color: black;
+     margin: 30px;
+ }
+
+ ol {
+     font-family: inherit;
+     font-size: 25px;
+     text-align: justify;
+     color: black;
+     margin: 30px;
+ }
+  
+ footer {
+    background-image: linear-gradient(to right top, #0e0f10, #151617, #1a1d1c, #202321, #282926);
+    font-family: inherit;
+    font-size: 20px;
+    text-align: center;
+    color: white;    
+    font-weight: inherit;
+    padding: 10px;
+ }
+
+ nav {
+     font-family: inherit;
+     font-size: 15px;
+     font-weight: bolder;
+     text-align: start;
+     padding: 10px;
+     border: solid 2px black;
+    
+     
+ }
